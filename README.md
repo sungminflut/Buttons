@@ -1,8 +1,8 @@
 # Flutter-buttons
 
 #### ✔ TextButton
-#### ✔ ElevatedButton
-✔ OutlinedButton
+✔ ElevatedButton
+#### ✔ OutlinedButton
 ✔ ButtonBar
 
 
